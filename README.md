@@ -11,6 +11,7 @@ FUD advanced Loader implementing dynamic indirect syscall with syscall number an
 
 Reenz0h from [@SEKTOR7net](https://twitter.com/SEKTOR7net) (Creator of the HalosGate technique )
 * https://blog.sektor7.net/#!res/2021/halosgate.md
+* https://institute.sektor7.net/rto-win-evasion
 
 
 
