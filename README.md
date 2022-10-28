@@ -7,6 +7,10 @@ FUD advanced Loader implementing dynamic indirect syscall with syscall number an
 ## Credits / References
 [@smelly__vx](https://twitter.com/smelly__vx) & [@am0nsec](https://twitter.com/am0nsec) ( Creators/Publishers of the Hells Gate technique )
 * https://github.com/am0nsec/HellsGate
+* [The Original Paper](https://vxug.fakedoma.in/papers/VXUG/Exclusive/HellsGate.pdf)  
+
+Reenz0h from [@SEKTOR7net](https://twitter.com/SEKTOR7net) (Creator of the HalosGate technique )
+* https://blog.sektor7.net/#!res/2021/halosgate.md
 
 
 
